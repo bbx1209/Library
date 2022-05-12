@@ -1,0 +1,16 @@
+PODS:
+  - BBXCommon (0.1.0)
+
+DEPENDENCIES:
+  - BBXCommon (from `../`)
+
+EXTERNAL SOURCES:
+  BBXCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBXCommon: 848b6f9c35d859cecf1bccc276cfa0979b95cf3a
+
+PODFILE CHECKSUM: d9bead4ddbf398aa2b305b3ee0b425f7526deff0
+
+COCOAPODS: 1.11.2
